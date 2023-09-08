@@ -1,2 +1,2 @@
 # Pricing-Plan
-Pricing-Plan card
+## [Visit the page](https://harshalrajnoor.github.io/Pricing-Plan/)
